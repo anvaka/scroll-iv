@@ -25,7 +25,7 @@ You can pass different easing functions:
 
 ``` js
 scrollIntoView(domElement, {
-  easing: ease // default is ease. Possible values: <ease|easeIn|easeOut|easeInOut|linear>
+  easing: 'ease' // default is ease. Possible values: <ease|easeIn|easeOut|easeInOut|linear>
 })
 ```
 
