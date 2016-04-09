@@ -1,0 +1,22 @@
+{
+  "name": "scroll-iv",
+  "version": "1.0.0",
+  "description": "Smooth cross browser scrollIntoView",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "scrollIntoView",
+    "animated",
+    "cross",
+    "browser",
+    "smooth"
+  ],
+  "author": "Andrei Kashcha",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/anvaka/scroll-iv"
+  }
+}
