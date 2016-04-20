@@ -20,6 +20,7 @@
     "url": "https://github.com/anvaka/scroll-iv"
   },
   "dependencies": {
-    "amator": "^1.0.0"
+    "amator": "^1.0.0",
+    "scrollparent": "^1.0.0"
   }
 }
